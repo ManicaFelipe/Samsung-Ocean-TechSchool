@@ -9,4 +9,4 @@ def hello():
 
 @app.route('/novo')
 def novo():
-    return "<h1>Nova Página</h1>" 
+    return "<h1>Nova Página</h1>"
